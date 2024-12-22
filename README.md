@@ -1,6 +1,6 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to WeAreSoftWareFounder's GitHub Profile! 👋
 
-Hi there! I'm Kirk, a passionate Software Engineer with a knack for building scalable application and web apps🚀
+Hi there! I'm Kirk, a passionate Software Engineer with a knack for building scalable applications and web apps🚀
 
 ---
 
