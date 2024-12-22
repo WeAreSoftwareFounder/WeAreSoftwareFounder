@@ -1,16 +1,32 @@
-## Hi there 👋
+# Welcome to [Your Name]'s GitHub Profile! 👋
 
-<!--
-**WeAreSoftwareFounder/WeAreSoftwareFounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Kirk, a passionate Software Engineer with a knack for building scalable application and web apps🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills & Tools:
+- **Languages**: Python, JavaScript, MERN, PERN
+- **Frameworks**: React, Django, Express, Noe
+- **Tools**: Git, Firebase, PostgradeSQL, Mongodb
+
+---
+
+## 📈 GitHub Stats:
+! WeAreSoftwareFoundere https://github-readme-stats.vercel.app/api?username=WeAreSoftwareFounder&show_icons=true&theme=radical)
+
+---
+
+## 🛠️ Projects
+- Personal AI assistant (https://github.com/KSLW/Personal-Assistant-Backend (WIP) ): This is the backend API for the Personal Assistant application. It handles user authentication, reminders, tasks, and email notifications using Firebase and FastAPI.
+
+
+---
+
+## 📫 Contact Me:
+- **Email**: Kirkwilkinson@msn.com
+- **LinkedIn**: https://www.linkedin.com/in/kirk-wilkinson-892304b9/
+- **Portfolio**: https://kirkwilkinson.netlify.app/
+
+---
+
+Thanks for stopping by! 😊 Feel free to connect with me.
