@@ -7,12 +7,12 @@ Hi there! I'm Kirk, a passionate Software Engineer with a knack for building sca
 ## 🌟 Skills & Tools:
 - **Languages**: Python, JavaScript, MERN, PERN
 - **Frameworks**: React, Django, Express, Noe
-- **Tools**: Git, Firebase, PostgradeSQL, Mongodb
+- **Tools**: Git, Firebase, PostgreSQL, MongoDB
 
 ---
 
 ## 📈 GitHub Stats:
-! WeAreSoftwareFoundere https://github-readme-stats.vercel.app/api?username=WeAreSoftwareFounder&show_icons=true&theme=radical)
+! WeAreSoftwareFounder https://github-readme-stats.vercel.app/api?username=WeAreSoftwareFounder&show_icons=true&theme=radical)
 
 ---
 
